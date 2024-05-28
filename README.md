@@ -1,8 +1,7 @@
 # problem-solving
 2024.02.05~2025.08.04 군 복무간 푼 알고리즘 문제 모음
 * acmicpc.net
-실골랜덤디펜스
-플레티넘 문제들 일주일에 하나는 풀어보기
+실골랜덤디펜스 및 플레티넘 문제들 일주일에 하나는 풀어보기
 * leetcode.com
 Daily Challenge 풀기
 
